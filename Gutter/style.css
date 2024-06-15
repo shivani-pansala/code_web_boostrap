@@ -1,0 +1,13 @@
+
+
+body{
+    background-color: pink;
+}
+
+.col{
+     border: 2px solid black;
+}
+
+.col-6{
+    border: 2px solid black;
+}
